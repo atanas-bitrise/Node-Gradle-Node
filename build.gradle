@@ -9,3 +9,7 @@ task runWhoami(type: Exec) {
 task runEnv(type: Exec) {
     commandLine("env")
 }
+
+task minimalTest {
+    println("Minimal test")
+}
