@@ -1,0 +1,3 @@
+task runNode(type: Exec) {
+    commandLine("node", "--version")
+}
