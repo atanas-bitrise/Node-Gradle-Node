@@ -13,3 +13,6 @@ task runEnv(type: Exec) {
 task minimalTest {
     println("Minimal test")
 }
+
+task nothing {
+}

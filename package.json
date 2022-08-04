@@ -8,7 +8,8 @@
     "whoami": "./gradlew runWhoami",
     "minimal": "./gradlew minimalTest",
     "bareGradle": "gradle minimalTest",
-    "minimalSudo": "sudo gradle minimalTest"
+    "minimalSudo": "sudo gradle minimalTest",
+    "nothing": "./gradlew nothing"
   },
   "dependencies": {
   },
