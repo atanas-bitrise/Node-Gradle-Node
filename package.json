@@ -3,7 +3,9 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "gradle": "./gradlew runNode"
+    "gradle": "./gradlew runNode",
+    "env": "./gradlew runEnv",
+    "whoami": "./gradlew runWhoami"
   },
   "dependencies": {
   },
