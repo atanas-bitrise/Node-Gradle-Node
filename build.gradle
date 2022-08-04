@@ -1,3 +1,11 @@
 task runNode(type: Exec) {
     commandLine("node", "--version")
 }
+
+task runWhoami(type: Exec) {
+    commandLine("whoami")
+}
+
+task runEnv(type: Exec) {
+    commandLine("env")
+}
