@@ -9,7 +9,8 @@
     "minimal": "./gradlew minimalTest",
     "bareGradle": "gradle minimalTest",
     "minimalSudo": "sudo gradle minimalTest",
-    "nothing": "./gradlew nothing"
+    "nothing": "./gradlew nothing",
+    "nodeEnv": "env"
   },
   "dependencies": {
   },
