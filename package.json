@@ -6,7 +6,8 @@
     "gradle": "./gradlew runNode",
     "env": "./gradlew runEnv",
     "whoami": "./gradlew runWhoami",
-    "minimal": "./gradlew minimalTest"
+    "minimal": "./gradlew minimalTest",
+    "bareGradle": "gradle minimalTest"
   },
   "dependencies": {
   },
