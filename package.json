@@ -10,7 +10,8 @@
     "bareGradle": "gradle minimalTest",
     "minimalSudo": "sudo gradle minimalTest",
     "nothing": "./gradlew nothing",
-    "nodeEnv": "env"
+    "nodeEnv": "env",
+    "cowsayHello": "npx cowsay Hello"
   },
   "dependencies": {
   },
