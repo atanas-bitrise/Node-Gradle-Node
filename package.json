@@ -5,7 +5,7 @@
   "scripts": {
     "gradle": "./gradlew runNode",
     "env": "./gradlew runEnv",
-    "whoami": "./gradlew runWhoami",
+    "whoami": "whoami",
     "minimal": "./gradlew minimalTest",
     "bareGradle": "gradle minimalTest",
     "minimalSudo": "sudo gradle minimalTest",
